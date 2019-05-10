@@ -8,3 +8,9 @@ body {
 p {
   display: inline;
 }
+.border {
+  border-width: 100px;
+}
+.wow {
+  background: green;
+}
