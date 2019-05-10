@@ -5,3 +5,6 @@ body {
   background-image: url("https://www.acurax.com/wp-content/themes/acuraxsite/images/inner_page_bnr.jpg?x26444");
   color: aliceblue;
 }
+p {
+  display: inline;
+}
